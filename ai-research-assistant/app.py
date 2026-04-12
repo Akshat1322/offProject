@@ -5,7 +5,7 @@ from PyPDF2 import PdfReader
 from urllib.parse import quote_plus
 
 st.set_page_config(
-    page_title="Adaptive AI Research Assistant",
+    page_title="Adaptive-AI Research Assistant",
     layout="wide"
 )
 
